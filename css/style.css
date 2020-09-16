@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+.brown {
+  background: brown; }
+
+.purple {
+  background: purple; }
+
+.orange {
+  background: orange; }
+
+.black {
+  background: black; }
+
+.gray {
+  background: gray; }
+
+.gold {
+  background: gold; }
+
+.para {
+  width: 60%; }
+
+.myButtons {
+  width: 80%; }
+
+/*# sourceMappingURL=style.css.map */

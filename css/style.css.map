@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,CAAC;EACC,MAAM,EAAC,CAAC;EACR,OAAO,EAAC,CAAC;EACT,UAAU,EAAE,UAAU;;ACHxB,MAAM;EACJ,UAAU,EAAG,KAAK;;AAEpB,OAAO;EACL,UAAU,EAAE,MAAM;;AAEpB,OAAO;EACL,UAAU,EAAE,MAAM;;AAEpB,MAAM;EACJ,UAAU,EAAE,KAAK;;AAEnB,KAAK;EACH,UAAU,EAAE,IAAI;;AAElB,KAAK;EACH,UAAU,EAAE,IAAI;;AChBlB,KAAK;EACH,KAAK,EAAE,GAAG;;ACDZ,UAAU;EACR,KAAK,EAAC,GAAG",
+"sources": ["../sass/_reset.scss","../sass/_colors.scss","../sass/_paragraph.scss","../sass/_buttons.scss"],
+"names": [],
+"file": "style.css"
+}
