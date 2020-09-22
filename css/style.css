@@ -3,6 +3,9 @@
   padding: 0;
   box-sizing: border-box; }
 
+.container {
+  width: 90%; }
+
 .brown {
   background: brown; }
 
@@ -25,6 +28,6 @@
   width: 60%; }
 
 .myButtons {
-  width: 80%; }
+  width: 95%; }
 
 /*# sourceMappingURL=style.css.map */
